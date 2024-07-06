@@ -37,4 +37,6 @@ This is a full-stack application made with MongoDB for the database, Java and Sp
 2. Browse through the list of movies.
 3. Click on the play button to watch the trailer.
 4. Click on the review button to post a review.
-   
+
+   ![image](https://github.com/ishaa05/Movie-reviews/assets/140882294/d43726b7-6427-490f-b4b5-72bba2985109)
+
